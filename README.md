@@ -13,6 +13,10 @@ KMeans
 
 Predictions
 
+- predict what teams will win for a given week
+- what players will perform well
+- what team can make it to the super bowl
+
 Stats / Player and Team stats
 
 Ranking
