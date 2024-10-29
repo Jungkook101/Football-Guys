@@ -28,6 +28,8 @@ Gui (website)
 Python
 VScode
 
+Flask(Python)
+
 HTML and CSS for interface
 
 MongoDB: store data
