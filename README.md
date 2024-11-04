@@ -9,7 +9,7 @@ Linear Regression
 
 KMeans
 
-# Ideaas
+# Ideas
 
 Predictions
 
