@@ -5,9 +5,11 @@ Machine Learning Final Project
 
 KNN 
 
-Linear Regression
+Training and Testing
 
 KMeans
+
+PCA
 
 # Ideas
 
