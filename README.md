@@ -25,6 +25,8 @@ Ranking
 
 Gui (website)
 
+-  Betting
+
 # Codes
 
 Python
