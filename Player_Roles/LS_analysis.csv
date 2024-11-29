@@ -1,0 +1,8 @@
+Team,Player,Position,Age,Experience,College,Games_Played,Num_total,Num_avg,Num_max,Pct_total,Pct_avg,Pct_max
+Bears,Scott Daly,LS,30.0,3,Notre Dame,51,0.0,0.0,0.0,0.0,0.0,0.0
+Commanders,Tyler Ott,LS,32.0,9,Harvard,113,0.0,0.0,0.0,0.0,0.0,0.0
+Cowboys,Trent Sieg,LS,29.0,6,Colorado St.,107,0.0,0.0,0.0,0.0,0.0,0.0
+Eagles,Rick Lovato,LS,32.0,9,Old Dominion,132,2.0,0.015151515151515152,1.0,2.0,0.015151515151515152,1.0
+Giants,Casey Kreiter,LS,34.0,8,Iowa,136,1.0,0.007042253521126761,1.0,1.0,0.007042253521126761,1.0
+Lions,Hogan Hatten,LS,24.0,Rook,Idaho,11,1.0,0.09090909090909091,1.0,1.0,0.09090909090909091,1.0
+Packers,Matthew Orzech,LS,29.0,5,Azusa Pacific,79,1.0,0.012195121951219513,1.0,2.0,0.024390243902439025,2.0
