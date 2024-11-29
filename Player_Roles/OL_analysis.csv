@@ -1,4 +1,12 @@
 Team,Player,Position,Age,Experience,College,Games_Played,GS_total,GS_avg,GS_max
+49ers,Aaron Banks,OL,27.0,3,Notre Dame,51,0.0,0.0,0.0
+49ers,Ben Bartch,OL,26.0,4,Saint John's (MN),50,0.0,0.0,0.0
+49ers,Jake Brendel,OL,32.0,8,UCLA,82,0.0,0.0,0.0
+49ers,Spencer Burford,OL,24.0,2,Texas-San Antonio,41,0.0,0.0,0.0
+49ers,Colton McKivitz,OL,28.0,4,West Virginia,57,0.0,0.0,0.0
+49ers,Jaylon Moore,OL,26.0,3,Western Michigan,51,0.0,0.0,0.0
+49ers,Dominick Puni,OL,24.0,Rook,Central Missouri St.Kansas,11,0.0,0.0,0.0
+49ers,Nick Zakelj,OL,25.0,2,Fordham,20,0.0,0.0,0.0
 Bears,Kiran Amegadjie,OL,22.0,Rook,Yale,4,0.0,0.0,0.0
 Bears,Ryan Bates,OL,27.0,5,Penn St.,75,0.0,0.0,0.0
 Bears,Larry Borom,OL,25.0,3,Missouri,41,0.0,0.0,0.0
@@ -9,6 +17,26 @@ Bears,Doug Kramer,OL,26.0,1,Illinois,11,0.0,0.0,0.0
 Bears,Matt Pryor,OL,30.0,5,TCU,85,0.0,0.0,0.0
 Bears,Coleman Shelton,OL,29.0,5,Washington,82,0.0,0.0,0.0
 Bears,Darnell Wright,OL,23.0,1,Tennessee,25,0.0,0.0,0.0
+Buccaneers,Chris Braswell,OLB,23.0,Rook,Alabama,11,0.0,0.0,0.0
+Buccaneers,YaYa Diaby,OLB,25.0,1,Georgia MilitaryLouisville,28,0.0,0.0,0.0
+Buccaneers,Anthony Nelson,OLB,27.0,5,Iowa,86,0.0,0.0,0.0
+Buccaneers,Jose Ramirez,OLB,25.0,1,ArizonaRiverside CCEastern Michigan,2,0.0,0.0,0.0
+Buccaneers,Joe Tryon-Shoyinka,OLB,25.0,3,Washington,62,0.0,0.0,0.0
+Cardinals,Isaiah Adams,OL,24.0,Rook,Wilfrid LaurierGarden City (KS)Illinois,9,0.0,0.0,0.0
+Cardinals,Kelvin Beachum,OL,35.0,12,SMU,173,0.0,0.0,0.0
+Cardinals,Evan Brown,OL,28.0,5,SMU,68,0.0,0.0,0.0
+Cardinals,Baron Browning,OLB,25.0,3,Ohio St.,45,0.0,0.0,0.0
+Cardinals,Zaven Collins,OLB,25.0,3,Tulsa,61,0.0,0.0,0.0
+Cardinals,Trystan Colon-Castillo,OL,26.0,4,Missouri,45,0.0,0.0,0.0
+Cardinals,Victor Dimukeje,OLB,25.0,3,Duke,51,0.0,0.0,0.0
+Cardinals,Hjalte Froholdt,OL,28.0,4,Arkansas,63,0.0,0.0,0.0
+Cardinals,Jon Gaines,OL,25.0,1,UCLA,7,0.0,0.0,0.0
+Cardinals,Paris Johnson,OL,23.0,1,Ohio St.,28,0.0,0.0,0.0
+Cardinals,Christian Jones,OL,24.0,Rook,Texas,0,,,
+Cardinals,Jesse Luketa,OLB,25.0,2,Penn St.,28,0.0,0.0,0.0
+Cardinals,Julian Okwara,OLB,27.0,4,Notre Dame,46,0.0,0.0,0.0
+Cardinals,Xavier Thomas,OLB,25.0,Rook,Clemson,8,0.0,0.0,0.0
+Cardinals,Jonah Williams,OL,27.0,4,Alabama,61,0.0,0.0,0.0
 Commanders,Mykal Walker,OLB,27.0,4,Azusa PacificFresno St.,68,0.0,0.0,0.0
 Commanders,Andrew Wylie,OL,30.0,6,Eastern Michigan,96,0.0,0.0,0.0
 Cowboys,Asim Richards,OL,24.0,1,North Carolina,18,0.0,0.0,0.0
@@ -20,6 +48,17 @@ Eagles,Cam Jurgens,OL,25.0,2,Nebraska,38,0.0,0.0,0.0
 Eagles,Nolan Smith,OLB,23.0,1,Georgia,27,0.0,0.0,0.0
 Eagles,Tyler Steen,OL,24.0,1,VanderbiltAlabama,21,0.0,0.0,0.0
 Eagles,Josh Sweat,OLB,27.0,6,Florida St.,98,0.0,0.0,0.0
+Falcons,Matthew Bergeron,OL,24.0,1,Syracuse,28,0.0,0.0,0.0
+Falcons,Lorenzo Carter,OLB,29.0,6,Georgia,90,0.0,0.0,0.0
+Falcons,Drew Dalman,OL,26.0,3,Stanford,51,0.0,0.0,0.0
+Falcons,Arnold Ebiketie,OLB,25.0,2,TemplePenn St.,44,0.0,0.0,0.0
+Falcons,Jovaughn Gwyn,OL,25.0,1,South Carolina,2,0.0,0.0,0.0
+Falcons,Kyle Hinton,OL,26.0,2,Washburn,29,0.0,0.0,0.0
+Falcons,Matt Judon,OLB,32.0,8,Grand Valley St.,127,0.0,0.0,0.0
+Falcons,DeAngelo Malone,OLB,25.0,2,Western Kentucky,43,0.0,0.0,0.0
+Falcons,Ryan Neuzil,OL,27.0,2,Appalachian St.,37,0.0,0.0,0.0
+Falcons,Storm Norton,OL,30.0,6,Toledo,61,0.0,0.0,0.0
+Falcons,Elijah Wilkinson,OL,29.0,7,Massachusetts,79,0.0,0.0,0.0
 Giants,Brian Burns,OLB,26.0,5,Florida St.,91,0.0,0.0,0.0
 Giants,Jermaine Eluemunor,OL,30.0,7,LackawannaTexas A&M,98,0.0,0.0,0.0
 Giants,Joshua Ezeudu,OL,25.0,2,North Carolina,27,0.0,0.0,0.0
@@ -35,6 +74,29 @@ Packers,Elgton Jenkins,OL,29.0,5,Mississippi St.,81,0.0,0.0,0.0
 Packers,Jacob Monk,OL,23.0,Rook,Duke,9,0.0,0.0,0.0
 Packers,Josh Myers,OL,26.0,3,Ohio St.,50,0.0,0.0,0.0
 Packers,Zach Tom,OL,25.0,2,Wake Forest,37,0.0,0.0,0.0
+Panthers,Jadeveon Clowney,OLB,31.0,10,South Carolina,135,0.0,0.0,0.0
+Panthers,Cam Gill,OLB,27.0,4,Wagner,44,0.0,0.0,0.0
+Panthers,Thomas Incoom,OLB,25.0,1,Valdosta St.Central Michigan,11,0.0,0.0,0.0
+Panthers,DJ Johnson,OLB,26.0,1,Miami (FL)Oregon,22,0.0,0.0,0.0
+Rams,Steve Avila,OL,25.0,1,TCU,21,0.0,0.0,0.0
+Rams,Justin Dedich,OL,24.0,Rook,USC,7,0.0,0.0,0.0
+Rams,Kevin Dotson,OL,28.0,4,Louisiana,66,0.0,0.0,0.0
+Rams,Nick Hampton,OLB,24.0,1,Appalachian St.,21,0.0,0.0,0.0
+Rams,Rob Havenstein,OL,32.0,9,Wisconsin,137,0.0,0.0,0.0
+Rams,Michael Hoecht,OLB,27.0,3,Brown,62,0.0,0.0,0.0
+Rams,Alaric Jackson,OL,26.0,3,Iowa,36,0.0,0.0,0.0
+Rams,Brennan Jackson,OLB,24.0,Rook,Washington St.,4,0.0,0.0,0.0
+Rams,Beaux Limmer,OL,23.0,Rook,Arkansas,11,0.0,0.0,0.0
+Rams,Warren McClendon,OL,23.0,1,Georgia,17,0.0,0.0,0.0
+Rams,Dylan McMahon,OL,23.0,Rook,North Carolina St.,0,,,
+Rams,Joseph Noteboom,OL,29.0,6,TCU,69,0.0,0.0,0.0
+Rams,Jared Verse,OLB,24.0,Rook,Albany (NY)Florida St.,11,0.0,0.0,0.0
+Rams,Byron Young,OLB,26.0,1,Georgia MilitaryTennessee,28,0.0,0.0,0.0
+Saints,Lucas Patrick,OL,31.0,7,Duke,104,0.0,0.0,0.0
+Saints,Cesar Ruiz,OL,25.0,4,Michigan,69,0.0,0.0,0.0
+Saints,Nick Saldiveri,OL,24.0,1,Old Dominion,14,0.0,0.0,0.0
+Saints,Oli Udoh,OL,27.0,5,Elon,52,0.0,0.0,0.0
+Seahawks,Derick Hall,OLB,23.0,1,Auburn,28,0.0,0.0,0.0
 Vikings,Jonathan Greenard,OLB,27.0,4,LouisvilleFlorida,59,0.0,0.0,0.0
 Vikings,Patrick Jones II,OLB,26.0,3,Pittsburgh,53,0.0,0.0,0.0
 Vikings,Bo Richter,OLB,24.0,Rook,Air Force,8,0.0,0.0,0.0
