@@ -1,0 +1,11 @@
+Player,Team,Experience,Games_Played,Games_Played,sample_weight,predicted_points,Yds_avg,TD_avg,Int_avg,Rate_avg,FL_avg
+Derek Carr,Saints,10,167,167,1.0,22.41,234.72,1.47,0.64,89.88,0.22
+Jared Goff,Lions,8,128,128,1.0,22.08,233.73,1.44,0.64,86.35,0.23
+Matthew Stafford,Rams,15,217,217,1.0,21.14,231.68,1.46,0.74,79.01,0.16
+Baker Mayfield,Buccaneers,6,100,100,1.0,20.28,210.28,1.4,0.75,82.19,0.16
+Kirk Cousins,Falcons,12,161,161,1.0,20.07,205.23,1.39,0.58,77.39,0.2
+Jalen Hurts,Eagles,4,72,72,0.99,17.51,181.31,1.03,0.51,78.51,0.19
+Andy Dalton,Panthers,13,176,176,1.0,17.06,177.93,1.14,0.68,68.77,0.12
+Kyler Murray,Cardinals,5,76,76,1.0,15.49,191.38,1.13,0.53,76.49,0.12
+Daniel Jones,Giants,5,70,70,0.99,13.83,156.8,0.75,0.51,64.04,0.28
+Sam Darnold,Vikings,6,77,77,1.0,12.3,134.37,0.76,0.6,53.85,0.16

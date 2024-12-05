@@ -1,0 +1,11 @@
+Player,Team,Experience,Games_Played,Games_Played,sample_weight,predicted_points,Rec_avg,Yds_avg,TD_avg,FL_avg
+Justin Jefferson,Vikings,4,71,71,0.99,16.8,5.81,87.67,0.45,0.03
+CeeDee Lamb,Cowboys,4,76,76,1.0,16.6,6.0,76.87,0.47,0.05
+Mike Evans,Buccaneers,10,163,163,1.0,15.22,4.56,69.44,0.57,0.01
+Cooper Kupp,Rams,7,100,100,1.0,14.36,4.94,60.43,0.44,0.02
+Terry McLaurin,Commanders,5,91,91,1.0,13.52,4.53,63.87,0.33,0.02
+DeVonta Smith,Eagles,3,59,59,0.98,12.98,4.61,60.56,0.38,0.05
+Tyler Lockett,Seahawks,9,155,155,1.0,12.06,4.11,53.73,0.39,0.02
+Keenan Allen,Bears,11,147,147,1.0,11.52,4.95,57.29,0.32,0.05
+Adam Thielen,Panthers,10,157,157,1.0,10.43,3.72,45.18,0.34,0.02
+Drake London,Falcons,2,44,44,0.92,9.84,4.49,55.13,0.27,0.07
